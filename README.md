@@ -21,7 +21,7 @@ I'm a passionate backend developer specializing in **Node.js**, with a focus on 
 -->
 ### 🔍 Get in Touch:
 - **Email**: noureldeenmoh45@gmail.com
-- **LinkedIn**: [Hossam's LinkedIn](https://www.linkedin.com/in/noureldeenmohamed)
+- **LinkedIn**: [Nour's LinkedIn](https://www.linkedin.com/in/noureldeenmohamed)
 - **GitHub**: [My Repositories](https://github.com/NourEldeenM?tab=repositories)
 
 Thanks for visiting! 😄

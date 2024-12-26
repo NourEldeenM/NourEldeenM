@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **backend technologies**
 - 📫 How to reach me **noureldeenmoh45@gmail.com**
 - 📄 Know about my experiences
-[My CV]([https://drive.google.com/file/d/1d4nqQnbyjl_ytANpXgl2zC1nosRXoDA1/view?usp=sharing](https://drive.google.com/file/d/198ojiaDnax-OWiDSAgEFlThMPOqeFt5c/view?usp=drive_link))
+[My CV]([https://drive.google.com/file/d/1d4nqQnbyjl_ytANpXgl2zC1nosRXoDA1/view?usp=sharing](https://drive.google.com/file/d/198ojiaDnax-OWiDSAgEFlThMPOqeFt5c/view?usp=drive_link])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

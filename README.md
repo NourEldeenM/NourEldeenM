@@ -1,232 +1,93 @@
-<h1 align="center">Hi 👋, I'm Nour</h1>
-<h3 align="center">A passionate software engineer from Egypt</h3>
+<h1 align="center">👋 Hello World! I'm Nour</h1>
+<h3 align="center">🚀 Software Engineer | ☕ Computer Vision Enthusiast</h3>
 
 <p align="center">
-	<img
-		src="https://komarev.com/ghpvc/?username=noureldeenm&label=Profile%20views&color=0e75b6&style=flat"
-		alt="noureldeenm" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=435&lines=Software+Developer;Problem+Solver;Tech+Enthusiast;Continuous+Learner" alt="Typing SVG" />
 </p>
 
-- 🌱 I’m currently learning **backend technologies**
-- 📫 How to reach me **noureldeenmoh45@gmail.com**
-- 📄 Know about my experiences
-[My CV](https://drive.google.com/file/d/198ojiaDnax-OWiDSAgEFlThMPOqeFt5c/view?usp=drive_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-	<a href="https://linkedin.com/in/noureldeenmohamed" target="blank"
-		><img
-			align="center"
-			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-			alt="noureldeenmohamed"
-			height="30"
-			width="40"
-	/></a>
-	<a href="https://www.hackerrank.com/noureldeenmoh45" target="blank"
-		><img
-			align="center"
-			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-			alt="noureldeenmoh45"
-			height="30"
-			width="40"
-	/></a>
+<p align="center">
+<!--   <a href="https://git.io/typing-svg">
+    <img src="https://komarev.com/ghpvc/?username=noureldeenm&label=Profile%20views&color=0e75b6&style=flat" alt="noureldeenm" />
+  </a> -->
+  <a href="https://www.linkedin.com/in/noureldeenmohamed/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/10dmFXnYeJrG4-zeh8hL20HbvzRCi1AK1/view?usp=sharing">
+    <img alt="Resume" src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-	<!-- <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-			alt="aws"
-			width="40"
-			height="40" />
-	</a> -->
-	<!-- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-			alt="bootstrap"
-			width="40"
-			height="40" />
-	</a> -->
-	<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-			alt="c"
-			width="40"
-			height="40" />
-	</a>
-	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-			alt="cplusplus"
-			width="40"
-			height="40" />
-	</a>
-	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-			alt="css3"
-			width="40"
-			height="40" />
-	</a>
-	<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-		<img
-			src="https://cdn.worldvectorlogo.com/logos/django.svg"
-			alt="django"
-			width="40"
-			height="40" />
-	</a>
-	<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-			alt="docker"
-			width="40"
-			height="40" />
-	</a>
-	<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-			alt="express"
-			width="40"
-			height="40" />
-	</a>
-	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-		<img
-			src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-			alt="git"
-			width="40"
-			height="40" />
-	</a>
-	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-			alt="html5"
-			width="40"
-			height="40" />
-	</a>
-	<a href="https://www.java.com" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-			alt="java"
-			width="40"
-			height="40" />
-	</a>
-	<a
-		href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-		target="_blank"
-		rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-			alt="javascript"
-			width="40"
-			height="40" />
-	</a>
-	<!-- <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-		<img
-			src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
-			alt="jest"
-			width="40"
-			height="40" />
-	</a> -->
-	<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-			alt="linux"
-			width="40"
-			height="40" />
-	</a>
-	<!-- <a href="https://mochajs.org" target="_blank" rel="noreferrer">
-		<img
-			src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg"
-			alt="mocha"
-			width="40"
-			height="40" />
-	</a> -->
-	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-			alt="mongodb"
-			width="40"
-			height="40" />
-	</a>
-	<a
-		href="https://www.microsoft.com/en-us/sql-server"
-		target="_blank"
-		rel="noreferrer">
-		<img
-			src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
-			alt="mssql"
-			width="40"
-			height="40" />
-	</a>
-	<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-			alt="nodejs"
-			width="40"
-			height="40" />
-	</a>
-	<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-			alt="postgresql"
-			width="40"
-			height="40" />
-	</a>
-	<a href="https://postman.com" target="_blank" rel="noreferrer">
-		<img
-			src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-			alt="postman"
-			width="40"
-			height="40" />
-	</a>
-	<a href="https://www.python.org" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-			alt="python"
-			width="40"
-			height="40" />
-	</a>
-	<!-- <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-			alt="react"
-			width="40"
-			height="40" />
-	</a>
-	<a href="https://redux.js.org" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-			alt="redux"
-			width="40"
-			height="40" />
-	</a> -->
-	<a href="https://spring.io/" target="_blank" rel="noreferrer">
-		<img
-			src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
-			alt="spring"
-			width="40"
-			height="40" />
-	</a>
-	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-			alt="typescript"
-			width="40"
-			height="40" />
-	</a>
+---
+
+### 📖 About Me
+
+<p align="center">
+  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
 
-<p>
-	<img
-		align="left"
-		src="https://github-readme-stats.vercel.app/api/top-langs?username=noureldeenm&show_icons=true&locale=en&layout=compact"
-		alt="noureldeenm" />
+- 🔭 I’m currently working on **Softwares.**
+- 🌱 Learning **System Architectures, Problem Solving, & Computer Vision.**
+- 📫 How to reach me: **noureldeenmoh45@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+#### 📋 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+#### 🗃️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MS SQL Server](http://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+#### 🚀 Frameworks & Tools
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noureldeenm&show_icons=true&locale=en&layout=compact&theme=radical" alt="noureldeenm" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=noureldeenm&show_icons=true&locale=en&theme=radical" alt="noureldeenm" />
 </p>
 
-<p>
-	&nbsp;<img
-		align="center"
-		src="https://github-readme-stats.vercel.app/api?username=noureldeenm&show_icons=true&locale=en"
-		alt="noureldeenm" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noureldeenm&theme=dark" alt="noureldeenm" />
 </p>
+
+---
+
+### 🎮 Let's Connect!
+
+<p align="center">
+  <a href="https://linkedin.com/in/noureldeenmohamed">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="50"/>
+  </a>
+  <a href="https://www.hackerrank.com/noureldeenmoh45">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="50"/>
+  </a>
+  <a href="mailto:noureldeenmoh45@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="50"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
+</p>
+
+<a href=#><img src="https://i.pinimg.com/originals/fe/84/4c/fe844cbda6fa537f1f2bfe47551f6de3.gif" align="left" width="100"></a>
+      <h4 align="right">View Count</h4>
+<a href=#><img src="https://profile-counter.glitch.me/noureldeenm/count.svg" alt="View Count" width="200" align="right"></a>
+
+---
+
+⭐ From [Noureldeen](https://github.com/noureldeenm)

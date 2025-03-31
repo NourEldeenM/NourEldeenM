@@ -1,3 +1,12 @@
+<!--  
+⚠️ This portfolio was built with dedication and effort by Nour Eldeen Mohamed.  
+If you use or reference this project, please give proper credit. Thanks for your consideration, & best of luck 😍
+Let's connect! 🌍  
+🔗 LinkedIn: https://linkedin.com/in/noureldeenmohamed
+📧 Email: noureldeenmoh45@gmail.com
+-->
+
+
 <h1 align="center">👋 Hello World! I'm Nour</h1>
 <h3 align="center">🚀 Software Engineer | ☕ Computer Vision Enthusiast</h3>
 
@@ -89,5 +98,32 @@
 <a href=#><img src="https://profile-counter.glitch.me/noureldeenm/count.svg" alt="View Count" width="200" align="right"></a>
 
 ---
+<br>
+
+### 🎓 University Projects
+
+#### Artificial Intelligence
+- [League AI - Queries on Dataset](https://github.com/NourEldeenM/league_AI)
+
+#### Operating Systems
+- [Banker's Algorithm](https://github.com/NourEldeenM/bankers-algorithm)
+- [Bash commands using Java](https://github.com/NourEldeenM/PlutOS)
+- [CPU Scheduling algorithms](https://github.com/NourEldeenM/StellarScheduler)
+- [Threads, semaphores and deadlocks](https://github.com/NourEldeenM/NeptuneParking)
+
+#### Software Engineering
+- [Learning Management System Backend using Java Spring Boot](https://github.com/NourEldeenM/MarsAcademy)
+
+#### Web Technology
+- [Book Borrowing system using HTML, CSS, JS and Python-Django](https://github.com/NourEldeenM/Chapterfly)
+
+#### Database Systems
+- [Library Management System using SQL Server and C# for WinForms](https://github.com/NourEldeenM/LibraryManagementSystem)
+
+#### Data Structures
+- [Data Structures Implementation](https://github.com/NourEldeenM/DataStruct-Project-FCAI-CU)
+
+### Algorithms
+- [Advanced Data Structres implementation + Advanced problem solving algorithms](https://github.com/NourEldeenM/Algorithms-Group-Assignments)
 
 ⭐ From [Noureldeen](https://github.com/noureldeenm)

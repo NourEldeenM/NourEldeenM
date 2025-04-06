@@ -106,7 +106,7 @@ Let's connect! 🌍
 - [League AI - Queries on Dataset](https://github.com/NourEldeenM/league_AI)
 
 #### Operating Systems
-- [Banker's Algorithm](https://github.com/NourEldeenM/bankers-algorithm)
+- [OS Disk Scheduling Algroithms Simulation using C++](https://github.com/NourEldeenM/disk-scheduling-algorithms)
 - [Bash commands using Java](https://github.com/NourEldeenM/PlutOS)
 - [CPU Scheduling algorithms](https://github.com/NourEldeenM/StellarScheduler)
 - [Threads, semaphores and deadlocks](https://github.com/NourEldeenM/NeptuneParking)

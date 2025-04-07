@@ -102,28 +102,30 @@ Let's connect! 🌍
 
 ### 🎓 University Projects
 
-#### Artificial Intelligence
+#### Computer Graphics 🖥️
+
+#### Artificial Intelligence 🤖
 - [League AI - Queries on Dataset](https://github.com/NourEldeenM/league_AI)
 
-#### Operating Systems
+#### Operating Systems ⚙️
 - [OS Disk Scheduling Algroithms Simulation using C++](https://github.com/NourEldeenM/disk-scheduling-algorithms)
 - [Bash commands using Java](https://github.com/NourEldeenM/PlutOS)
 - [CPU Scheduling algorithms](https://github.com/NourEldeenM/StellarScheduler)
 - [Threads, semaphores and deadlocks](https://github.com/NourEldeenM/NeptuneParking)
 
-#### Software Engineering
+#### Software Engineering 📊
 - [Learning Management System Backend using Java Spring Boot](https://github.com/NourEldeenM/MarsAcademy)
 
-#### Web Technology
+#### Web Technology 🕸️
 - [Book Borrowing system using HTML, CSS, JS and Python-Django](https://github.com/NourEldeenM/Chapterfly)
 
-#### Database Systems
+#### Database Systems 🚢
 - [Library Management System using SQL Server and C# for WinForms](https://github.com/NourEldeenM/LibraryManagementSystem)
 
-#### Data Structures
+#### Data Structures 🌲
 - [Data Structures Implementation](https://github.com/NourEldeenM/DataStruct-Project-FCAI-CU)
 
-### Algorithms
+### Algorithms 💡
 - [Advanced Data Structres implementation + Advanced problem solving algorithms](https://github.com/NourEldeenM/Algorithms-Group-Assignments)
 
 ⭐ From [Noureldeen](https://github.com/noureldeenm)

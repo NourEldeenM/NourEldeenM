@@ -66,13 +66,13 @@ Let's connect! 🌍
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noureldeenm&show_icons=true&locale=en&layout=compact&theme=radical" alt="noureldeenm" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=noureldeenm&show_icons=true&locale=en&theme=radical" alt="noureldeenm" />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=noureldeenm&show_icons=true&locale=en&theme=radical" alt="noureldeenm" /> -->
 </p>
-
+<!-- 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=noureldeenm&theme=dark" alt="noureldeenm" />
 </p>
-
+-->
 ---
 
 ### 🎮 Let's Connect!

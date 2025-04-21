@@ -102,7 +102,8 @@ Let's connect! 🌍
 
 ### 🎓 University Projects
 
-#### Computer Graphics 🖥️
+#### High Performance Computing 🖥️
+- [Ceaser Cipher & Array search Implementation using MPI](https://github.com/NourEldeenM/message-passing-interface-tasks)
 
 #### Artificial Intelligence 🤖
 - [League AI - Queries on Dataset](https://github.com/NourEldeenM/league_AI)

@@ -104,6 +104,7 @@ Let's connect! 🌍
 
 #### High Performance Computing 🖥️
 - [Ceaser Cipher & Array search Implementation using MPI](https://github.com/NourEldeenM/message-passing-interface-tasks)
+- [OpenMP Tasks](https://github.com/NourEldeenM/open-mp-tasks-hpc)
 
 #### Artificial Intelligence 🤖
 - [League AI - Queries on Dataset](https://github.com/NourEldeenM/league_AI)

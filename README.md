@@ -103,6 +103,9 @@ Let's connect! 🌍
 
 ### 🎓 University Projects
 
+### Computer Graphics
+- [2d drawing application](https://github.com/NourEldeenM/2d-drawing-program)
+
 #### High Performance Computing 🖥️
 - [Ceaser Cipher & Array search Implementation using MPI](https://github.com/NourEldeenM/message-passing-interface-tasks)
 - [OpenMP Tasks](https://github.com/NourEldeenM/open-mp-tasks-hpc)

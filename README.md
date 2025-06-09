@@ -1,6 +1,6 @@
 <!--  
 ⚠️ This portfolio was built with dedication and effort by Nour Eldeen Mohamed.  
-If you use or reference this project, please give proper credit. Thanks for your consideration, & best of luck 😍
+If you use or refer this project, please give proper credit. Thanks for your consideration, & best of luck 😍
 Let's connect! 🌍  
 🔗 LinkedIn: https://linkedin.com/in/noureldeenmohamed
 📧 Email: noureldeenmoh45@gmail.com
@@ -8,7 +8,7 @@ Let's connect! 🌍
 
 
 <h1 align="center">👋 Hello World! I'm Nour</h1>
-<h3 align="center">🚀 Software Engineer | ☕ Computer Vision Enthusiast</h3>
+<h3 align="center">🚀 Software Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=435&lines=Software+Developer;Problem+Solver;Tech+Enthusiast;Continuous+Learner" alt="Typing SVG" />
@@ -34,8 +34,8 @@ Let's connect! 🌍
   <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
 
-- 🔭 I’m currently working on **Softwares.**
-- 🌱 Learning **System Architectures, Problem Solving, & Computer Vision.**
+- 🔭 I’m currently working in **Software Engineering**
+- 🌱 Learning **System Architectures, Problem Solving, & Machine Learning.**
 - 📫 How to reach me: **noureldeenmoh45@gmail.com**
 
 ---
@@ -58,7 +58,7 @@ Let's connect! 🌍
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<!-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) -->
 
 ---
 
@@ -87,6 +87,9 @@ Let's connect! 🌍
   </a>
   <a href="mailto:noureldeenmoh45@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="50"/>
+  </a>
+  <a href="https://leetcode.com/u/52Nzo9arpa/">
+    <img src="https://assets.leetcode.com/users/leetcode/avatar_1568224780.png" width="50"/>
   </a>
 </p>
 

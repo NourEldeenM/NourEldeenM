@@ -8,10 +8,10 @@ Let's connect! 🌍
 
 
 <h1 align="center">👋 Hello World! I'm Nour</h1>
-<h3 align="center">🚀 Software Engineer</h3>
-
+<!-- <h3 align="center">🚀 Software Engineer</h3>
+ -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=435&lines=Software+Developer;Problem+Solver;Tech+Enthusiast;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Problem+Solver;Tech+Enthusiast;Continuous+Learner" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@ Let's connect! 🌍
   <a href="https://www.linkedin.com/in/noureldeenmohamed/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/10dmFXnYeJrG4-zeh8hL20HbvzRCi1AK1/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1zgQOldPb57MgMiJaNV8DL8lyb31x6opa/view?usp=sharing">
     <img alt="Resume" src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
@@ -34,8 +34,7 @@ Let's connect! 🌍
   <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
 
-- 🔭 I’m currently working in **Software Engineering**
-- 🌱 Learning **System Architectures, Problem Solving, & Machine Learning.**
+- 🌱 Passionate about **System Design, Problem Solving, & Software Engineering.**
 - 📫 How to reach me: **noureldeenmoh45@gmail.com**
 
 ---
@@ -43,22 +42,13 @@ Let's connect! 🌍
 ### 🛠️ Tech Stack
 
 #### 📋 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,c,cpp,html,css,)](https://skillicons.dev)
 
-#### 🗃️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MS SQL Server](http://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+#### 🚀 Frameworks & Libraries
+[![My Skills](https://skillicons.dev/icons?i=nodejs,spring)](https://skillicons.dev)
 
-#### 🚀 Frameworks & Tools
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-<!-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) -->
+#### 🔨 Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman)](https://skillicons.dev)
 
 ---
 
@@ -80,13 +70,13 @@ Let's connect! 🌍
 
 <p align="center">
   <a href="https://linkedin.com/in/noureldeenmohamed">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="50"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://www.hackerrank.com/noureldeenmoh45">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="50"/>
   </a>
   <a href="mailto:noureldeenmoh45@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="50"/>
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://leetcode.com/u/52Nzo9arpa/">
     <img src="https://assets.leetcode.com/users/leetcode/avatar_1568224780.png" width="50"/>

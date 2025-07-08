@@ -45,7 +45,7 @@ Let's connect! 🌍
 [![My Skills](https://skillicons.dev/icons?i=java,py,js,c,cpp,html,css,)](https://skillicons.dev)
 
 #### 🚀 Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=nodejs,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,spring,fastapi,express)](https://skillicons.dev)
 
 #### 🔨 Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,postman)](https://skillicons.dev)

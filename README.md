@@ -21,7 +21,7 @@ Let's connect! 🌍
   <a href="https://www.linkedin.com/in/noureldeenmohamed/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1zgQOldPb57MgMiJaNV8DL8lyb31x6opa/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1GhAgY9FtBQLMxIbvmOihzq0KOWti4k4C/view?usp=sharing">
     <img alt="Resume" src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
@@ -42,13 +42,13 @@ Let's connect! 🌍
 ### 🛠️ Tech Stack
 
 #### 📋 Languages
-[![My Skills](https://skillicons.dev/icons?i=java,py,js,c,cpp,html,css,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,cpp,java)](https://skillicons.dev)
 
 #### 🚀 Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=nodejs,spring,fastapi,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,spring)](https://skillicons.dev)
 
 #### 🔨 Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,githubactions,jenkins)](https://skillicons.dev)
 
 ---
 
@@ -89,7 +89,7 @@ Let's connect! 🌍
 
 <a href=#><img src="https://i.pinimg.com/originals/fe/84/4c/fe844cbda6fa537f1f2bfe47551f6de3.gif" align="left" width="100"></a>
       <h4 align="right">View Count</h4>
-<a href=#><img src="https://profile-counter.glitch.me/noureldeenm/count.svg" alt="View Count" width="200" align="right"></a>
+<a href=#><img src="https://komarev.com/ghpvc/?username=NourEldeenM&color=blueviolet" alt="View Count" align="right"></a>
 
 ---
 <br>

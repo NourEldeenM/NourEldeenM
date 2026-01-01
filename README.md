@@ -42,13 +42,13 @@ Let's connect! 🌍
 ### 🛠️ Tech Stack
 
 #### 📋 Languages
-[![My Skills](https://skillicons.dev/icons?i=py,js,cpp,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,cpp)](https://skillicons.dev)
 
 #### 🚀 Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,react)](https://skillicons.dev)
 
 #### 🔨 Tools
-[![My Skills](https://skillicons.dev/icons?i=git,docker,githubactions,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,githubactions,jenkins,rabbitmq,redis)](https://skillicons.dev)
 
 ---
 
